@@ -1,5 +1,6 @@
 ## Hi there 👋
-## 🌐 Socials:https://www.linkedin.com/in/HarshitKumar
+## 🌐 Socials:
+https://www.linkedin.com/in/harshit-kumar-685baa408
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitsingh27283@gmail.com) 
 
 # 💻 Tech Stack:
